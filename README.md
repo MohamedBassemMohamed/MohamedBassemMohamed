@@ -8,12 +8,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Data%20Analyst;BI%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
-- 🏢 I'm a Software Engineer and Data Analyst
-- 👨‍💻 As a IS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Database, .NET, and NodeJS, or anything related to web development.
+- 🏢 I'm a Software Engineer, Data Analyst, and BI Developer.
+- 👨‍💻 As an IS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Databases, .NET, Power BI, and NodeJS, or anything related to web development and data analysis.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
   
 
